@@ -393,7 +393,7 @@ footer
         position: relative;
         width: 40px;
         height: 40px;
-        background: url(/images/menu.png);
+        background: url(https://cdn-icons-png.flaticon.com/512/5259/5259008.png);
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
@@ -402,7 +402,7 @@ footer
 
     .menuToggle.active
     {
-        background: url(/images/close.png);
+        background: url(https://cdn-icons-png.flaticon.com/512/2961/2961937.png);
         background-size: 25px;
         background-repeat: no-repeat;
         background-position: center;
@@ -419,7 +419,7 @@ footer
     .banner .content h2
     {
         font-size: 5em;
-        color: #b2cf0b;
+        color: #ce0404;
     }
     .banner .content .sub
     {
@@ -467,7 +467,7 @@ footer
         display: flex;
         justify-content: center;
         align-items: center;
-        background: url(/images/bg1.jpg);
+        background: url(https://th.bing.com/th/id/R.27b99258b7490ff4ad7cb5abe5fb4e4b?rik=G1hYX9EZ1P2dKA&pid=ImgRaw&r=0);
         background-size: cover;
     }
 
